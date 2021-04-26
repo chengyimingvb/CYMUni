@@ -1,0 +1,507 @@
+{
+    "Data": [
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_shared/569567d4ff66d3764dd95232bdf7aac4",
+            "IsShared": true,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMCommon/_Res/Shaders/Dissolve/Dissolve_TexturCoords.shader",
+                    "FileName": "Dissolve_TexturCoords"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_shared/b6508ea776587fc4d058221e6c7287b7",
+            "IsShared": true,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMCommon/_Res/Shaders/UI/CircleGuidanceShader.shader",
+                    "FileName": "CircleGuidanceShader"
+                },
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMCommon/_Res/Shaders/UI/RectGuidanceShader.shader",
+                    "FileName": "RectGuidanceShader"
+                },
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMCommon/_Res/Shaders/UI/MaskedUIBlur.shader",
+                    "FileName": "MaskedUIBlur"
+                },
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMCommon/_Res/Shaders/UI/SoftMaskETC1.shader",
+                    "FileName": "SoftMaskETC1"
+                },
+                {
+                    "SourceBundleName": "",
+                    "FullPath": "Assets/CYMCommon/_Res/Shaders/UI/SoftMask.shader",
+                    "FileName": "SoftMask"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_config",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "config",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Config/DLCItem.json",
+                    "FileName": "DLCItem"
+                },
+                {
+                    "SourceBundleName": "config",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Config/DLCManifest.json",
+                    "FileName": "DLCManifest"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_language",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "language",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Language/System.bytes",
+                    "FileName": "System"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_sprite",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Sprite/UIMask.png",
+                    "FileName": "UIMask"
+                },
+                {
+                    "SourceBundleName": "sprite",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Sprite/White.png",
+                    "FileName": "White"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_icon",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Icon/Attr_Empty.png",
+                    "FileName": "Attr_Empty"
+                },
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Icon/Logo/Logo_Common.psd",
+                    "FileName": "Logo_Common"
+                },
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Icon/Logo/Logo_巴西龟.png",
+                    "FileName": "Logo_巴西龟"
+                },
+                {
+                    "SourceBundleName": "icon",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Icon/Logo/Logo_甲骨文.PNG",
+                    "FileName": "Logo_甲骨文"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_audio",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Audio/UI_AppTab.wav",
+                    "FileName": "UI_AppTab"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Audio/UI_BntHover.wav",
+                    "FileName": "UI_BntHover"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Audio/UI_Error.wav",
+                    "FileName": "UI_Error"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Audio/UI_Focus.wav",
+                    "FileName": "UI_Focus"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Audio/UI_Tabclick.wav",
+                    "FileName": "UI_Tabclick"
+                },
+                {
+                    "SourceBundleName": "audio",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Audio/UI_WVSlider.wav",
+                    "FileName": "UI_WVSlider"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_material",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/DissolveFire.mat",
+                    "FileName": "DissolveFire"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/DissolveFire_NoLighting.mat",
+                    "FileName": "DissolveFire_NoLighting"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/DissolveSeams.mat",
+                    "FileName": "DissolveSeams"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/DissolveWithoutSeams.mat",
+                    "FileName": "DissolveWithoutSeams"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/TargetGround.mat",
+                    "FileName": "TargetGround"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/Other/SelectionRectMat.mat",
+                    "FileName": "SelectionRectMat"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/UI/CircleGuidanceMat.mat",
+                    "FileName": "CircleGuidanceMat"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/UI/FontRendering.mat",
+                    "FileName": "FontRendering"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/UI/ImageGrey.mat",
+                    "FileName": "ImageGrey"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/UI/RectGuidanceMat.mat",
+                    "FileName": "RectGuidanceMat"
+                },
+                {
+                    "SourceBundleName": "material",
+                    "FullPath": "Assets/CYMCommon/_Bundles/Material/UI/UIBlur.mat",
+                    "FileName": "UIBlur"
+                }
+            ]
+        },
+        {
+            "DLCName": "Internal",
+            "BundleName": "internal_ui",
+            "IsShared": false,
+            "AssetFullPaths": [
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/HUDItem/BaseDamageJumpFont.prefab",
+                    "FileName": "BaseDamageJumpFont"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/HUDItem/BaseStateJumpFont.prefab",
+                    "FileName": "BaseStateJumpFont"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/HUDItem/BaseTextBubble.prefab",
+                    "FileName": "BaseTextBubble"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/HUDItem/BaseTreatmentJumpFont.prefab",
+                    "FileName": "BaseTreatmentJumpFont"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseBgText.prefab",
+                    "FileName": "BaseBgText"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseBlur.prefab",
+                    "FileName": "BaseBlur"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseButton(Close).prefab",
+                    "FileName": "BaseButton(Close)"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseButton.prefab",
+                    "FileName": "BaseButton"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseButton2.prefab",
+                    "FileName": "BaseButton2"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseCheckBox.prefab",
+                    "FileName": "BaseCheckBox"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseDecorations.prefab",
+                    "FileName": "BaseDecorations"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseDropdown.prefab",
+                    "FileName": "BaseDropdown"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseDupplicate.prefab",
+                    "FileName": "BaseDupplicate"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseHeader.prefab",
+                    "FileName": "BaseHeader"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseImage.prefab",
+                    "FileName": "BaseImage"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseInputField.prefab",
+                    "FileName": "BaseInputField"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseLoadingBar.prefab",
+                    "FileName": "BaseLoadingBar"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseRawImage.prefab",
+                    "FileName": "BaseRawImage"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseRichText.prefab",
+                    "FileName": "BaseRichText"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseScrollBar(Vertical).prefab",
+                    "FileName": "BaseScrollBar(Vertical)"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseScrollView(InfiniteHorizontal).prefab",
+                    "FileName": "BaseScrollView(InfiniteHorizontal)"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseScrollView(InfiniteVertical).prefab",
+                    "FileName": "BaseScrollView(InfiniteVertical)"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseScrollView(String).prefab",
+                    "FileName": "BaseScrollView(String)"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseScrollView.prefab",
+                    "FileName": "BaseScrollView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseSeparator(Horizontal).prefab",
+                    "FileName": "BaseSeparator(Horizontal)"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseSeparator(Vertical).prefab",
+                    "FileName": "BaseSeparator(Vertical)"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseSlider.prefab",
+                    "FileName": "BaseSlider"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseTab.prefab",
+                    "FileName": "BaseTab"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseTable.prefab",
+                    "FileName": "BaseTable"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseTabsMenu.prefab",
+                    "FileName": "BaseTabsMenu"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseText.prefab",
+                    "FileName": "BaseText"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseView.prefab",
+                    "FileName": "BaseView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/BaseWindow.prefab",
+                    "FileName": "BaseWindow"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/Prototype/BaseProto.prefab",
+                    "FileName": "BaseProto"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Presenter/System/BaseBlocker.prefab",
+                    "FileName": "BaseBlocker"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Root/BaseHUDBarView.prefab",
+                    "FileName": "BaseHUDBarView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Root/BaseRootView.prefab",
+                    "FileName": "BaseRootView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/Root/BaseWorldRootView.prefab",
+                    "FileName": "BaseWorldRootView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseAlertBarView.prefab",
+                    "FileName": "BaseAlertBarView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseFadeView.prefab",
+                    "FileName": "BaseFadeView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseGuideView.prefab",
+                    "FileName": "BaseGuideView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseHelpView.prefab",
+                    "FileName": "BaseHelpView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseHUDView.prefab",
+                    "FileName": "BaseHUDView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseModalBoxView.prefab",
+                    "FileName": "BaseModalBoxView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseNarrationView.prefab",
+                    "FileName": "BaseNarrationView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseNotificationLevelView.prefab",
+                    "FileName": "BaseNotificationLevelView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseNotificationView.prefab",
+                    "FileName": "BaseNotificationView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BasePlotTipView.prefab",
+                    "FileName": "BasePlotTipView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseProcessView.prefab",
+                    "FileName": "BaseProcessView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseTipView.prefab",
+                    "FileName": "BaseTipView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseTooltipTopdownView.prefab",
+                    "FileName": "BaseTooltipTopdownView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/BaseTooltipView.prefab",
+                    "FileName": "BaseTooltipView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/LoggerView/BaseLoggerView.prefab",
+                    "FileName": "BaseLoggerView"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/LoggerView/BaseLogItem.prefab",
+                    "FileName": "BaseLogItem"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/TalkView/BaseTalkSel.prefab",
+                    "FileName": "BaseTalkSel"
+                },
+                {
+                    "SourceBundleName": "ui",
+                    "FullPath": "Assets/CYMCommon/_Bundles/UI/View/TalkView/BaseTalkView.prefab",
+                    "FileName": "BaseTalkView"
+                }
+            ]
+        }
+    ]
+}
